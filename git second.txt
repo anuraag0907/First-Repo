@@ -1,2 +1,2 @@
 git second repo
-this is version 2
+this is version 1
